@@ -12,6 +12,5 @@
 # 在VScode中生存本地网站：http://localhost:7726/
 ###  随后将网站部署到github中，并尝试运行
 1、将项目推送到GitHub仓库
-
 2. 在仓库设置中启用GitHub Pages，选择main分支
 3. 网站部署完成
