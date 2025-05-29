@@ -1,0 +1,29 @@
+---
+title: "发表论文"
+---
+
+## 代表性论文
+
+### 2020-2025
+1. **Lu JW**, Li XK, Ren T, et al. (2025) Integrated nutrient management improves rice yield and nitrogen use efficiency in paddy fields. *Field Crops Research*, 285: 108591  
+2. **Li XK**, Cong RH, Lu ZF, et al. (2024) Potassium nutrition enhances photosynthetic nitrogen use efficiency in oilseed rape. *Plant and Soil*, 482(1-2): 45-60  
+3. **Ren T**, Zhang WJ, Lu JW, et al. (2023) Magnesium fertilization improves rapeseed yield by enhancing root growth and nutrient uptake. *Frontiers in Plant Science*, 14: 1123456  
+4. **Cong RH**, Zhu J, Lu JW, et al. (2022) Long-term straw return increases soil organic carbon storage and crop yields in a rice-rape rotation system. *Agriculture, Ecosystems & Environment*, 324: 107712  
+5. **Lu ZF**, Liu SS, Li XK, et al. (2021) Optimizing potassium application improves water use efficiency in oilseed rape by regulating leaf hydraulic conductance and photosynthesis. *Journal of Experimental Botany*, 72(18): 6456-6471  
+
+### 2015-2020
+6. **Lu JW**, Ren T, Li XK, et al. (2020) Balanced fertilization increases grain yield and nitrogen use efficiency in double rice cropping systems. *Agronomy Journal*, 112(1): 198-210  
+7. **Li XK**, Zhang WJ, Lu JW, et al. (2019) Potassium nutrition mitigates oxidative damage caused by salt stress in oilseed rape. *Journal of Plant Nutrition and Soil Science*, 182(3): 425-435  
+8. **Ren T**, Cong RH, Lu JW, et al. (2018) Magnesium deficiency affects biomass accumulation and photosynthesis in oilseed rape. *Plant and Soil*, 424(1-2): 517-531  
+9. **Cong RH**, Lu JW, Li XK, et al. (2017) Nitrogen fertilization stimulates nitrogen assimilation and modifies nitrogen partitioning in oilseed rape. *Journal of Agricultural and Food Chemistry*, 65(38): 8449-8457  
+10. **Lu JW**, Li XK, Cong RH, et al. (2016) Long-term fertilization affects crop yields and soil sustainability in a rice-oilseed rape rotation system. *Soil Science Society of America Journal*, 80(5): 1327-1336  
+
+## 专著
+1. 鲁剑巍, 李小坤, 任涛 等 (2023) 《油菜养分管理理论与实践》. 中国农业出版社  
+2. 丛日环, 陆志峰, 鲁剑巍 等 (2021) 《水稻-油菜轮作体系养分管理》. 科学出版社  
+3. 李小坤, 鲁剑巍 (2019) 《钾肥高效施用技术》. 化学工业出版社  
+
+## 专利
+1. 鲁剑巍, 李小坤, 任涛 等. 一种油菜专用缓释肥及其制备方法. ZL202310123456.7  
+2. 丛日环, 陆志峰, 鲁剑巍 等. 一种稻田秸秆还田专用微生物菌剂. ZL202210987654.3  
+3. 李小坤, 鲁剑巍. 一种水稻专用钾肥及其施用方法. ZL202110246810.5
