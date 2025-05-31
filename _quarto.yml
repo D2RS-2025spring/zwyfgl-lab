@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "作物养分管理课题组"
@@ -14,20 +15,14 @@ website:
       - href: research.qmd
         text: 研究方向
       - href: publications.qmd
-        text: 发表论文
+        text: 科研成果
       - href: contact.qmd
         text: 联系我们
+  page-footer:
+    center: "Copyright © 2002-2025 作物养分管理课题组"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    toc-depth: 2
-    toc-title: "目录"
-    highlight-style: github
-    code-fold: true
-
-github-pages:
-  branch: main
-  provider: github
+    toc: false
