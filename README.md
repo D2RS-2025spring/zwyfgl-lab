@@ -37,8 +37,8 @@
 - 配置GitHub Actions自动部署到GitHub Pages
 - 本地预览服务已启动
 
-网站可通过http://localhost:6063/预览，部署到GitHub Pages后可通过GitHub提供的URL访问。
-## 在VScode中生成本地网站：http://localhost:7726/
+## 加了图片等的优化的网站可通过http://localhost:6063/预览，但是部署到GitHub Pages未成功。
+## 另一个本地网站：http://localhost:7726/，部署成功
 ##  随后将网站部署到github中，并尝试运行
 1. 将项目推送到GitHub仓库
 
